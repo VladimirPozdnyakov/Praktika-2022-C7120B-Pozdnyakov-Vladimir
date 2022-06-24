@@ -1,0 +1,40 @@
+.body__container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.body__container1-one {
+  display: flex;
+}
+
+.body__container1-one-text1 {
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 82px;
+  color: #ff8a56;
+}
+
+.body__container1-one-text2 {
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 82px;
+}
+
+.body__container1-one-text3 {
+}
+
+.body__container1-one-buttons {
+}
+
+.body__container1-one-buttons-1 {
+}
+
+.body__container1-one-buttons-2 {
+}
+
+.body__container1-two {
+}
+
+.body__container1-two-img {
+}
