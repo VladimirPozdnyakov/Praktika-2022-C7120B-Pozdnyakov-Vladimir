@@ -2,10 +2,12 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-left: 112.5px;
 }
 
 .body__container1-one {
   display: flex;
+  flex-direction: column;
 }
 
 .body__container1-one-text1 {
@@ -22,19 +24,128 @@
 }
 
 .body__container1-one-text3 {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  padding-top: 32px;
+  color: #666666;
 }
 
 .body__container1-one-buttons {
+  display: flex;
+  padding-top: 38px;
 }
 
 .body__container1-one-buttons-1 {
+  height: 58px;
+  width: 151px;
+  background: #000000;
+}
+
+.body__container1-one-buttons-1-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  color: #ffffff;
 }
 
 .body__container1-one-buttons-2 {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  padding-left: 40px;
+  background-color: white;
+  border: none;
+}
+
+.body__container1-one-buttons-arrow {
+  position: absolute;
+  width: 13.33px;
+  height: 12.96px;
+  padding-left: 321px;
+  padding-top: 405px;
 }
 
 .body__container1-two {
+  margin-top: 82px;
+  padding-left: 68px;
 }
 
 .body__container1-two-img {
+}
+
+.body__container2 {
+  padding-top: 202px;
+  margin-left: 350px;
+  margin-right: 289px;
+}
+
+.body__container2-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  padding-left: 50%;
+}
+
+.body__container2-menu {
+}
+
+.body__container2-menu-spisok {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 45px;
+  column-gap: 100px;
+}
+
+.body__container2-menu-spisok-li1 {
+}
+
+.body__container2-menu-spisok-li1-img {
+}
+
+.body__container2-menu-spisok-li2 {
+}
+
+.body__container2-menu-spisok-li2-img {
+}
+
+.body__container2-menu-spisok-li3 {
+}
+
+.body__container2-menu-spisok-li3-img {
+}
+
+.body__container2-menu-spisok-li4 {
+}
+
+.body__container2-menu-spisok-li4-img {
+}
+
+.body__container2-menu-spisok-li5 {
+}
+
+.body__container2-menu-spisok-li5-img {
+}
+
+.body__container3 {
+  padding-top: 80px;
+  margin-left: 171px;
+  margin-right: 171px;
+}
+
+.body__container3-text1 {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 22px;
+  color: #ff5e69;
+  padding-left: 53%;
+}
+
+.body__container3-text2 {
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 59px;
+  padding-top: 20px;
+  padding-left: 25%;
 }
