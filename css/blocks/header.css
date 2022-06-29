@@ -3,10 +3,11 @@
   justify-content: space-between;
   align-items: center;
   margin-top: 45px;
+  width: 1215px;
+  margin-left: 112.5px;
 }
 
 .header__logo-wrapper {
-  margin-left: 112.5px;
 }
 
 .header__logo-square {
@@ -38,4 +39,32 @@
 .header__arrow {
   position: absolute;
   margin-left: 40%;
+}
+
+.header__li1,
+.header__li2,
+.header__li3,
+.header__li4,
+.header__li5 {
+  transition: 0.3s;
+}
+
+.header__li1:hover,
+.header__li2:hover,
+.header__li3:hover,
+.header__li4:hover,
+.header__li5:hover {
+  transition: 0.3s;
+  text-decoration: underline;
+  text-shadow: 1px 2px 3px black;
+}
+
+.header__li1:active,
+.header__li2:active,
+.header__li3:active,
+.header__li4:active,
+.header__li5:active {
+  transition: 0.3s;
+  transform: translateY(2px);
+  text-shadow: none;
 }
