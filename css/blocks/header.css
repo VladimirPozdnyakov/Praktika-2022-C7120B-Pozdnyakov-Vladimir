@@ -9,12 +9,6 @@
   margin-left: 112.5px;
 }
 
-.header__logo-img {
-}
-
-.header__logo-link {
-}
-
 .header__logo-square {
   margin-bottom: -15px;
   margin-left: -4px;
@@ -32,21 +26,6 @@
   column-gap: 40px;
 }
 
-.header__li1 {
-}
-
-.header__li2 {
-}
-
-.header__li3 {
-}
-
-.header__li4 {
-}
-
-.header__li5 {
-}
-
 .header__link1,
 .header__link2,
 .header__link3,
@@ -58,11 +37,5 @@
 
 .header__arrow {
   position: absolute;
-  margin-left: 1445px;
-}
-
-.header__arrow-img {
-}
-
-.header__arrow-link {
+  margin-left: 40%;
 }
