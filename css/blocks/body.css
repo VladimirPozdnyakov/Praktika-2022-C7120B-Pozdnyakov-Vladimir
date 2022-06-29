@@ -75,7 +75,7 @@
 
 .body__container2 {
   width: 862px;
-  padding-top: 202px;
+  padding-top: 80px;
   text-align: center;
 }
 
@@ -94,7 +94,7 @@
 }
 
 .body__container3 {
-  margin-top: 156px;
+  margin-top: 80px;
 }
 
 .body__container3-text {
@@ -309,7 +309,7 @@
 
 .body__container4-two-block2 {
   background: white;
-  margin-left: 24px;
+  margin-left: 255px;
   width: 486px;
   height: 486px;
 }
@@ -342,8 +342,8 @@
 
 .body__container4-two-block3 {
   background: white;
-  margin-left: 24px;
-  width: 486px;
+  margin-left: 255px;
+  width: 307px;
   height: 486px;
 }
 
@@ -404,7 +404,7 @@
   color: white;
   margin-top: -181px;
   height: 1737px;
-  width: 100%;
+  width: 1903px;
 }
 
 .body__container5-one {
@@ -725,7 +725,7 @@ hr {
   margin-top: 160px;
   background: #000000;
   color: white;
-  width: 100%;
+  width: 1903px;
 }
 
 .body__container9-text {
